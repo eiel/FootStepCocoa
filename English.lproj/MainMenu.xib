@@ -1413,9 +1413,6 @@
 			<object class="NSCustomObject" id="755631768">
 				<string key="NSClassName">NSFontManager</string>
 			</object>
-			<object class="NSCustomObject" id="456120023">
-				<string key="NSClassName">FootStepControl</string>
-			</object>
 			<object class="NSMenuItem" id="33057292">
 				<string key="NSTitle">Application</string>
 				<string key="NSKeyEquiv"/>
@@ -2221,22 +2218,6 @@
 						<reference key="destination" ref="972006081"/>
 					</object>
 					<int key="connectionID">532</int>
-				</object>
-				<object class="IBConnectionRecord">
-					<object class="IBOutletConnection" key="connection">
-						<string key="label">window</string>
-						<reference key="source" ref="456120023"/>
-						<reference key="destination" ref="972006081"/>
-					</object>
-					<int key="connectionID">546</int>
-				</object>
-				<object class="IBConnectionRecord">
-					<object class="IBOutletConnection" key="connection">
-						<string key="label">view</string>
-						<reference key="source" ref="456120023"/>
-						<reference key="destination" ref="710380631"/>
-					</object>
-					<int key="connectionID">547</int>
 				</object>
 				<object class="IBConnectionRecord">
 					<object class="IBActionConnection" key="connection">
@@ -3368,11 +3349,6 @@
 						<int key="objectID">538</int>
 						<reference key="object" ref="283499783"/>
 						<reference key="parent" ref="54685096"/>
-					</object>
-					<object class="IBObjectRecord">
-						<int key="objectID">542</int>
-						<reference key="object" ref="456120023"/>
-						<reference key="parent" ref="0"/>
 					</object>
 					<object class="IBObjectRecord">
 						<int key="objectID">549</int>
